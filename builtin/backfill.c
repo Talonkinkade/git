@@ -1,4 +1,4 @@
-#define USE_THE_REPOSITORY_VARIABLE /* for core_apply_sparse_checkout */
+#define USE_THE_REPOSITORY_VARIABLE
 
 #include "builtin.h"
 #include "git-compat-util.h"
